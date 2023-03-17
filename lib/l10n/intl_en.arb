@@ -1,0 +1,21 @@
+{
+    "menu":"Menu",
+    "menu1":"Generate random numbers",
+    "menu2":"Delete numbers",
+    "menu3":"Mean of the numbers",
+    "menu4":"Order the numbers",
+    "home":"Homepage",
+    "input":"Enter the numbers separated by commas",
+    "inputGene":"Enter the amount of number you want",
+    "labelError":"Error, please enter valid values",
+    "error":"Error",
+    "cancel":"Cancel",
+    "ok":"Ok",
+    "rbutton1":"Calculate how many even numbers there are",
+    "rbutton2":"Remove odd numbers",
+    "rbutton3":"Add the numbers",
+    "button":"Calculate",
+    "labelrb1":"Even number quantity",
+    "labelrb2":"Pair numbers",
+    "labelrb3":"Sum of numbers"
+}

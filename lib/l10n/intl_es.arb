@@ -1,0 +1,21 @@
+{
+    "menu":"Menú",
+    "menu1":"Generar números aleatorio",
+    "menu2":"Borrar números",
+    "menu3":"Media de los números",
+    "menu4":"Ordenar los números",
+    "home":"Página principal",
+    "input":"Ingrese los numeros separados por comas",
+    "inputGene":"Ingrese la cantidad de número que desee",
+    "labelError":"Error, ingrese valores válidos",
+    "error":"Error",
+    "cancel":"Cancelar",
+    "ok":"Ok",
+    "rbutton1":"Calcular cuántos numeros pares hay",
+    "rbutton2":"Eliminar los números impares",
+    "rbutton3":"Suma los números",
+    "button":"Calcular",
+    "labelrb1":"Cantidad de número pares",
+    "labelrb2":"Números pares",
+    "labelrb3":"Suma de los números"
+}
